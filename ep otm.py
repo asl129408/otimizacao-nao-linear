@@ -151,6 +151,8 @@ z = Symbol("z")
 erro=10**(-6)
 
 """""
+Exemplos de input
+
 n=1
 f = x**2 + 3*x -20 
 f = sin(3x + 1)
